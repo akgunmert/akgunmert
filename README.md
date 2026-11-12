@@ -1,4 +1,4 @@
-# Mert Akgün
+# Mert Akgun
 
 MSc student in Data Science and Engineering at Politecnico di Torino, based in Turin. I work on applied machine learning, with interests in LLM agents, model evaluation, and computer vision. Open to ML and AI internship opportunities.
 
@@ -11,7 +11,9 @@ MSc student in Data Science and Engineering at Politecnico di Torino, based in T
 
 ## Technologies
 
-Python · PyTorch · Hugging Face Transformers · LangGraph · Docker · C++ · Qt/QML
+**ML & Data:** Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas · NumPy · OpenCV
+**LLM & Agents:** LangGraph · LangChain
+**Software & Tools:** C++ · Qt/QML · Docker · Git · Linux · SQL
 
 ## Contact
 
