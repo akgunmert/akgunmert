@@ -11,9 +11,9 @@ MSc student in Data Science and Engineering at Politecnico di Torino, based in T
 
 ## Technologies
 
-**ML & Data:** Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas · NumPy · OpenCV
-**LLM & Agents:** LangGraph · LangChain
-**Software & Tools:** C++ · Qt/QML · Docker · Git · Linux · SQL
+- **ML & Data:** Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas · NumPy
+- **LLM & Agents:** LangGraph · LangChain
+- **Software & Tools:** C · C++ · Java · Qt/QML · Docker · Git · Linux · SQL
 
 ## Contact
 
